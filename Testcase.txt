@@ -1,0 +1,14 @@
+Test case 1
+How many cars - 10
+Collision - Yes
+Collision happened after how many seconds - 13.726582288742065 seconds
+
+Test case 2
+How many cars - 20
+Collision - Yes
+Collision happened after how many seconds - 16.80076789855957 seconds
+
+Test case 3
+How many cars - 30
+Collision - Yes
+Collision happened after how many seconds - 13.259500980377197 seconds
